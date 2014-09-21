@@ -5,7 +5,7 @@ Data transformation
 -------------------
 
 The raw data sets are processed with run_analisys.R script to create a tidy data
-set [[12](#tidy-dataset)].
+set
 
 ### Merge training and test sets
 
